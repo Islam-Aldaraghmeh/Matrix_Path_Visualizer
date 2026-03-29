@@ -8,4 +8,4 @@ This project explores Square matrices, and the notion of "Paths" that an input v
 
 This project tries to explore these questions.
 
-To see the project in action, visit: islam-aldaraghmeh.github.io/Matrix_Project/
+To see the project in action, visit: islam-aldaraghmeh.github.io/Matrix-Path-Visualizer
